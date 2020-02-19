@@ -1,4 +1,4 @@
-# My-ethereum-Wallet-reposentory
+# My-ethereum-Wallet-repository
 
 # Welcome to GitHub Pages
 
